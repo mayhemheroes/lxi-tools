@@ -1,0 +1,5 @@
+project: rnshah9/lxi-tools
+target: lxi-tools
+
+cmds:
+  - cmd: /repo/build/src/lxi run @@
