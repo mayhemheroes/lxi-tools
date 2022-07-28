@@ -2,4 +2,4 @@ project: lxi-tools
 target: lxi
 
 cmds:
-  - cmd: /repo/build/src/lxi run @@
+  - cmd: /install/bin/lxi run @@
