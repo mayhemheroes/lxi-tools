@@ -1,0 +1,5 @@
+project: lxi-tools
+target: lxi
+
+cmds:
+  - cmd: /install/bin/lxi run @@

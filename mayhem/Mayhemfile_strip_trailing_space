@@ -1,0 +1,6 @@
+project: lxi-tools
+target: strip-trailing-space
+
+cmds:
+  - cmd: /fuzz_strip_trailing_space
+    libfuzzer: true
